@@ -1,0 +1,13 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<nav>
+<<<<<<< HEAD
+EZ TEST
+=======
+TEST
+>>>>>>> origin/bugfix
+		</nav>
+	</body>
+</html>
